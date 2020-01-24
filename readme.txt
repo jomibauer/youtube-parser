@@ -24,6 +24,6 @@ varies in size depending on whether its measuring width or height.  trial and er
 ============================
 -WHERE DOES THE OUTPUT GO?—
 
-the excel file will be named after the date the day the file was run(e.g. Jan 17th, 2020).  Running the program multiple times per day will overwrite the older file.
+the excel file will be named after the date the day the file was run(e.g. Jan 17th, 2020).  Running the program multiple times per day will overwrite the older file from the same day.
 
 The files will be saved into a directory named after the current month and year (e.g. Jan 2020) which will be saved in the current working directory.
